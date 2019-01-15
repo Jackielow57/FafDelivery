@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="textDetails">Driver Details</string>
+    <string name="TextName">Driver Name : </string>
+    <string name="TextID">Driver ID :</string>
+    <string name="TextContact">Contact :</string>
+    <string name="TextRatings">RATINGS</string>
+</resources>
